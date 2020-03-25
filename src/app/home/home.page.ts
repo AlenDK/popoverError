@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { onboardingInput } from '../popover-directive.directive';
+
 
 @Component({
   selector: 'app-home',

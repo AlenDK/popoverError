@@ -1,0 +1,28 @@
+.main_icon{
+    font-size: 32px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 24px;
+    color: var(--ion-color-primary);
+  }
+  .title{
+     text-align: center;
+     font-size: 16px;
+     margin: 6px;
+  }
+  .subtitle{
+     font-size: 14px;
+     text-align: center;
+     padding-right: 10px;
+     padding-left: 10px;
+     line-height: 21px;
+     margin-top: 0px;
+     padding-bottom: 8px;
+  }
+  .close-icon{
+     font-size: 30px;
+     position: absolute;
+     right: 0px;
+     top: 0px;
+     color: var(--ion-color-primary);
+  }
