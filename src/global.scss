@@ -24,3 +24,17 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+.onboarding_popover {
+    .popover-content {
+        background: white; 
+    }
+    ion-backdrop{
+      --backdrop-opacity: 0.9;
+    }
+}
+
+.popover-translucent.sc-ion-popover-ios-h .popover-arrow.sc-ion-popover-ios:after, .popover-translucent.sc-ion-popover-ios-h .popover-content.sc-ion-popover-ios {
+    background-color: white;
+}
