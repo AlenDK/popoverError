@@ -100,12 +100,12 @@
     "sentry-cordova": "Is currently locked to version 0.14.0 with newest version being 0.16.0 while waiting for following issue to be fixed https://github.com/getsentry/sentry-cordova/issues/146"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.803.20",
+    "@angular-devkit/build-angular": "~15.0.4",
     "@angular/cli": "~8.3.23",
     "@angular/compiler": "~8.2.14",
     "@angular/compiler-cli": "~8.2.14",
     "@angular/language-service": "~8.2.14",
-    "@ionic/angular-toolkit": "^2.1.1",
+    "@ionic/angular-toolkit": "^2.3.3",
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
